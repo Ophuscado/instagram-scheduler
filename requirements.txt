@@ -1,0 +1,4 @@
+instagrapi
+pillow
+python-dotenv
+wheel
