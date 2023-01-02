@@ -6,11 +6,11 @@ Publishes a random image from a folder to Instagram.
 
 ## Attributions
 
-This project has influence from many sources. You can find a quasi-complete list of attributions in the file [`ATTRIBUTIONS.md`.](https://github.com/Ophuscado/instagram-scheduler/blob/master/.github/ATTRIBUTIONS.md)
+This project has influence from many sources. You can find a quasi-complete list of attributions in the file [`ATTRIBUTIONS.md`.](https://github.com/Ophuscado/instagram-scheduler/blob/main/ATTRIBUTIONS.md)
 
 ## Contributions
 
-Please read [`CONTRIBUTIONS.md`](https://github.com/Ophuscado/instagram-scheduler/blob/master/.github/CONTRIBUTIONS.md) before submitting a pull request.
+Please read [`CONTRIBUTIONS.md`](https://github.com/Ophuscado/instagram-scheduler/blob/main/CONTRIBUTIONS.md) before submitting a pull request.
 
 ## Documentation
 
@@ -18,7 +18,7 @@ Configuration is done via `.env` file.
 
 ## License
 
-Copyright (c) 2022, Ophuscado LLC.
+Copyright (c) 2022-2023, Ophuscado LLC.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
